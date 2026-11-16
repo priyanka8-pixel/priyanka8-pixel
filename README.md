@@ -13,3 +13,10 @@ I believe in continuous learning and enjoy transforming data into meaningful ins
 🎯 Career Goal: To begin my professional journey as a Data Analyst and contribute my skills while learning and growing in the industry.
 
 📍 Gurugram, Haryana, India
+
+## 🛠️ Skills & Tools
+
+- **Advanced Excel:** Data Cleaning, Pivot Tables, VLOOKUP, XLOOKUP
+- **Power BI:** Dashboard Creation, Data Visualization, Interactive Reports
+- **Python:** Data Handling, Basic Data Analysis
+- **MySQL:** SQL Queries, Data Retrieval, Database Management
