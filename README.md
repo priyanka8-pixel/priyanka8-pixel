@@ -1,16 +1,15 @@
-## Hi there 👋
+**Hi, I’m Priyanka Saini!** 👋
 
-<!--
-**priyanka8-pixel/priyanka8-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Turning Data into Insights 📊
 
-Here are some ideas to get you started:
+I’m a Commerce postgraduate passionate about Data Analytics and data-driven problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have completed professional training in Data Analytics and worked with Advanced Excel, Power BI, Python, and MySQL.
+
+Through hands-on projects, I have explored data analysis, data visualization, dashboard creation, and database management.
+
+I believe in continuous learning and enjoy transforming data into meaningful insights that help understand business performance.
+
+🎯 Career Goal: To begin my professional journey as a Data Analyst and contribute my skills while learning and growing in the industry.
+
+📍 Gurugram, Haryana, India
